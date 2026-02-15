@@ -20,7 +20,6 @@ const route= useRoute()
       </div>
 
     </section>
-    <p class="name">HAWI K. BACHA</p>
   <div class = "content">
     <img src = "/hawi_id.png" class="id">
     <div class="content-text">
